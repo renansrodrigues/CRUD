@@ -1,0 +1,13 @@
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\obj\Debug\netcoreapp3.1\Visums.Application.csprojAssemblyReference.cache
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\obj\Debug\netcoreapp3.1\Visums.Application.AssemblyInfoInputs.cache
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\obj\Debug\netcoreapp3.1\Visums.Application.AssemblyInfo.cs
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\bin\Debug\netcoreapp3.1\Visums.Application.deps.json
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\bin\Debug\netcoreapp3.1\Visums.Application.dll
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\bin\Debug\netcoreapp3.1\Visums.Application.pdb
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\bin\Debug\netcoreapp3.1\Visums.Domain.Core.dll
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\bin\Debug\netcoreapp3.1\Visums.Domain.dll
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\bin\Debug\netcoreapp3.1\Visums.Domain.Core.pdb
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\bin\Debug\netcoreapp3.1\Visums.Domain.pdb
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\obj\Debug\netcoreapp3.1\Visums.Application.csproj.CopyComplete
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\obj\Debug\netcoreapp3.1\Visums.Application.dll
+C:\Users\r.rodrigues\source\repos\Visums\VIsums.Application\obj\Debug\netcoreapp3.1\Visums.Application.pdb

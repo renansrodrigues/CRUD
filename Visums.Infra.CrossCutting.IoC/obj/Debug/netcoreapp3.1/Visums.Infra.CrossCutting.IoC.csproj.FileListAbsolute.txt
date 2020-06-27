@@ -1,0 +1,17 @@
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.deps.json
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.dll
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.pdb
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Application.dll
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Domain.Core.dll
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Domain.dll
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Infra.Data.dll
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Application.pdb
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Domain.Core.pdb
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Domain.pdb
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Visums.Infra.Data.pdb
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.dll
+C:\Users\r.rodrigues\source\repos\Visums\Visums.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Visums.Infra.CrossCutting.IoC.pdb
