@@ -1,15 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQtPMZbYN+ZNZUegfD69+tjJIuhAIkuGPu50mOyuQLGnY1qBsFPoaxKVBRacBko2jC/2yYYeoHi8/vslaZhFxQ==",
+  "dgSpecHash": "a/XAa6KHRfpNP+/TXpGH02HByR5opGf4+oUgC/Hj6UNeCfykARfSjZcCpL0wZ5BO23Vky4ifQcpg6RP88ONrew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj",
+  "projectFilePath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\renan\\.nuget\\packages\\elasticsearch.net\\7.8.0\\elasticsearch.net.7.8.0.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
-    "C:\\Users\\renan\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -9,6 +9,7 @@
       "Visums.Infra.Data/1.0.0": {
         "dependencies": {
           "Dapper.Contrib": "2.0.35",
+          "Elasticsearch.Net": "7.8.0",
           "Visums.Domain": "1.0.0"
         },
         "runtime": {
@@ -36,6 +37,19 @@
           "lib/netstandard2.0/Dapper.Contrib.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.0.35.21366"
+          }
+        }
+      },
+      "Elasticsearch.Net/7.8.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "System.Buffers": "4.5.0",
+          "System.Diagnostics.DiagnosticSource": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Elasticsearch.Net.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.8.0.0"
           }
         }
       },
@@ -84,7 +98,9 @@
       },
       "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {},
+      "System.Buffers/4.5.0": {},
       "System.ComponentModel.Annotations/4.4.1": {},
+      "System.Diagnostics.DiagnosticSource/4.5.1": {},
       "System.Reflection.Emit/4.7.0": {},
       "System.Reflection.Emit.Lightweight/4.7.0": {},
       "Visums.Domain/1.0.0": {
@@ -128,6 +144,13 @@
       "path": "dapper.contrib/2.0.35",
       "hashPath": "dapper.contrib.2.0.35.nupkg.sha512"
     },
+    "Elasticsearch.Net/7.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QHiL8hLdb07M6gU2Ld4k8u/nTgiTj5WJHBGdvfRRkn8KrpsN2xNgukje49hXs886B9EOx129ou3hw6d6axwA9Q==",
+      "path": "elasticsearch.net/7.8.0",
+      "hashPath": "elasticsearch.net.7.8.0.nupkg.sha512"
+    },
     "FluentValidation/8.6.2": {
       "type": "package",
       "serviceable": true,
@@ -170,12 +193,26 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
     },
+    "System.Buffers/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
+      "path": "system.buffers/4.5.0",
+      "hashPath": "system.buffers.4.5.0.nupkg.sha512"
+    },
     "System.ComponentModel.Annotations/4.4.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
       "path": "system.componentmodel.annotations/4.4.1",
       "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zCno/m44ymWhgLFh7tELDG9587q0l/EynPM0m4KgLaWQbz/TEKvNRX2YT5ip2qXW/uayifQ2ZqbnErsKJ4lYrQ==",
+      "path": "system.diagnostics.diagnosticsource/4.5.1",
+      "hashPath": "system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512"
     },
     "System.Reflection.Emit/4.7.0": {
       "type": "package",

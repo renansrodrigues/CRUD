@@ -33,7 +33,7 @@ namespace Visums.Domain.Commands.UsuarioCommands.UsuarioHandler
 
             if(_usuarioRepository.Adicionar(usuario))
             {
-
+                   
                 //TODO : Send to Rabbit
             }
 

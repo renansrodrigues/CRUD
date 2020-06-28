@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {}
+    "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
+    "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
         "projectName": "Visums.Domain.Core",
-        "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

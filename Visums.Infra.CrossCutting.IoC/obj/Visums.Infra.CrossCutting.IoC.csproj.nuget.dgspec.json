@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj": {}
+    "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\VIsums.Application\\Visums.Application.csproj": {
+    "C:\\Users\\renan\\source\\repos\\CRUD\\VIsums.Application\\Visums.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\VIsums.Application\\Visums.Application.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\source\\repos\\CRUD\\VIsums.Application\\Visums.Application.csproj",
         "projectName": "Visums.Application",
-        "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\VIsums.Application\\Visums.Application.csproj",
+        "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\VIsums.Application\\Visums.Application.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\VIsums.Application\\obj\\",
+        "outputPath": "C:\\Users\\renan\\source\\repos\\CRUD\\VIsums.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj"
               },
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
+    "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
         "projectName": "Visums.Domain.Core",
-        "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj": {
+    "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj",
         "projectName": "Visums.Domain",
-        "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj",
+        "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\obj\\",
+        "outputPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -169,8 +169,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj"
               }
             }
           }
@@ -184,6 +184,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.8.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[8.6.2, )"
@@ -215,14 +219,14 @@
         }
       }
     },
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj": {
+    "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj",
         "projectName": "Visums.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj",
+        "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.CrossCutting.IoC\\Visums.Infra.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.CrossCutting.IoC\\obj\\",
+        "outputPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -241,17 +245,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\VIsums.Application\\Visums.Application.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\VIsums.Application\\Visums.Application.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\VIsums.Application\\Visums.Application.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\VIsums.Application\\Visums.Application.csproj"
               },
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj"
               },
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj"
               },
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\Visums.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\Visums.Infra.Data.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\Visums.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\Visums.Infra.Data.csproj"
               }
             }
           }
@@ -292,14 +296,14 @@
         }
       }
     },
-    "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\Visums.Infra.Data.csproj": {
+    "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\Visums.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
         "projectName": "Visums.Infra.Data",
-        "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -318,8 +322,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj": {
-                "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj"
+              "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj": {
+                "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj"
               }
             }
           }
@@ -336,6 +340,14 @@
             "Dapper.Contrib": {
               "target": "Package",
               "version": "[2.0.35, )"
+            },
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.8.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.8.0, )"
             }
           },
           "imports": [

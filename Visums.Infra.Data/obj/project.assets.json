@@ -28,6 +28,20 @@
           "lib/netstandard2.0/Dapper.Contrib.dll": {}
         }
       },
+      "Elasticsearch.Net/7.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.6.0",
+          "System.Buffers": "4.5.0",
+          "System.Diagnostics.DiagnosticSource": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/Elasticsearch.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Elasticsearch.Net.dll": {}
+        }
+      },
       "FluentValidation/8.6.2": {
         "type": "package",
         "dependencies": {
@@ -96,6 +110,27 @@
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
+      "NEST/7.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Elasticsearch.Net": "7.8.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Nest.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nest.dll": {}
+        }
+      },
+      "System.Buffers/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ComponentModel.Annotations/4.4.1": {
         "type": "package",
         "compile": {
@@ -103,6 +138,15 @@
         },
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
       "System.Reflection.Emit/4.7.0": {
@@ -127,6 +171,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Elasticsearch.Net": "7.8.0",
           "FluentValidation": "8.6.2",
           "MediatR": "8.0.1",
           "Visums.Domain.Core": "1.0.0"
@@ -189,6 +234,28 @@
         "lib/net461/Dapper.Contrib.xml",
         "lib/netstandard2.0/Dapper.Contrib.dll",
         "lib/netstandard2.0/Dapper.Contrib.xml"
+      ]
+    },
+    "Elasticsearch.Net/7.8.0": {
+      "sha512": "QHiL8hLdb07M6gU2Ld4k8u/nTgiTj5WJHBGdvfRRkn8KrpsN2xNgukje49hXs886B9EOx129ou3hw6d6axwA9Q==",
+      "type": "package",
+      "path": "elasticsearch.net/7.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elasticsearch.net.7.8.0.nupkg.sha512",
+        "elasticsearch.net.nuspec",
+        "lib/net461/Elasticsearch.Net.dll",
+        "lib/net461/Elasticsearch.Net.pdb",
+        "lib/net461/Elasticsearch.Net.xml",
+        "lib/netstandard2.0/Elasticsearch.Net.dll",
+        "lib/netstandard2.0/Elasticsearch.Net.pdb",
+        "lib/netstandard2.0/Elasticsearch.Net.xml",
+        "lib/netstandard2.1/Elasticsearch.Net.dll",
+        "lib/netstandard2.1/Elasticsearch.Net.pdb",
+        "lib/netstandard2.1/Elasticsearch.Net.xml",
+        "license.txt",
+        "nuget-icon.png"
       ]
     },
     "FluentValidation/8.6.2": {
@@ -338,6 +405,54 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
+    "NEST/7.8.0": {
+      "sha512": "QlGPCv1YT2cNqMh8iPQKrFMvHOyWgvd00eN7oq6krIoSW8LPJHOTdFDCxosjqpEnsf7cckOEXh/F1GVvUyhK3A==",
+      "type": "package",
+      "path": "nest/7.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Nest.dll",
+        "lib/net461/Nest.pdb",
+        "lib/net461/Nest.xml",
+        "lib/netstandard2.0/Nest.dll",
+        "lib/netstandard2.0/Nest.pdb",
+        "lib/netstandard2.0/Nest.xml",
+        "license.txt",
+        "nest.7.8.0.nupkg.sha512",
+        "nest.nuspec",
+        "nuget-icon.png"
+      ]
+    },
+    "System.Buffers/4.5.0": {
+      "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
+      "type": "package",
+      "path": "system.buffers/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.1/System.Buffers.dll",
+        "lib/netstandard1.1/System.Buffers.xml",
+        "lib/netstandard2.0/System.Buffers.dll",
+        "lib/netstandard2.0/System.Buffers.xml",
+        "lib/uap10.0.16299/_._",
+        "ref/net45/System.Buffers.dll",
+        "ref/net45/System.Buffers.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.1/System.Buffers.dll",
+        "ref/netstandard1.1/System.Buffers.xml",
+        "ref/netstandard2.0/System.Buffers.dll",
+        "ref/netstandard2.0/System.Buffers.xml",
+        "ref/uap10.0.16299/_._",
+        "system.buffers.4.5.0.nupkg.sha512",
+        "system.buffers.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "System.ComponentModel.Annotations/4.4.1": {
       "sha512": "ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
       "type": "package",
@@ -421,6 +536,31 @@
         "ref/xamarinwatchos10/_._",
         "system.componentmodel.annotations.4.4.1.nupkg.sha512",
         "system.componentmodel.annotations.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Diagnostics.DiagnosticSource/4.5.1": {
+      "sha512": "zCno/m44ymWhgLFh7tELDG9587q0l/EynPM0m4KgLaWQbz/TEKvNRX2YT5ip2qXW/uayifQ2ZqbnErsKJ4lYrQ==",
+      "type": "package",
+      "path": "system.diagnostics.diagnosticsource/4.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net45/System.Diagnostics.DiagnosticSource.xml",
+        "lib/net46/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net46/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml",
+        "system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+        "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
@@ -551,6 +691,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Dapper.Contrib >= 2.0.35",
+      "Elasticsearch.Net >= 7.8.0",
+      "NEST >= 7.8.0",
       "Visums.Domain >= 1.0.0"
     ]
   },
@@ -561,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
       "projectName": "Visums.Infra.Data",
-      "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\Visums.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -584,8 +726,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj": {
-              "projectPath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain\\Visums.Domain.csproj"
+            "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj": {
+              "projectPath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain\\Visums.Domain.csproj"
             }
           }
         }
@@ -602,6 +744,14 @@
           "Dapper.Contrib": {
             "target": "Package",
             "version": "[2.0.35, )"
+          },
+          "Elasticsearch.Net": {
+            "target": "Package",
+            "version": "[7.8.0, )"
+          },
+          "NEST": {
+            "target": "Package",
+            "version": "[7.8.0, )"
           }
         },
         "imports": [

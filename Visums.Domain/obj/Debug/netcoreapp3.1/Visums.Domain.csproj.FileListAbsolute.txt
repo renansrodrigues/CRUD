@@ -9,3 +9,14 @@ C:\Users\r.rodrigues\source\repos\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\V
 C:\Users\r.rodrigues\source\repos\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.csproj.CopyComplete
 C:\Users\r.rodrigues\source\repos\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.dll
 C:\Users\r.rodrigues\source\repos\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.pdb
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\bin\Debug\netcoreapp3.1\Visums.Domain.deps.json
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\bin\Debug\netcoreapp3.1\Visums.Domain.dll
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\bin\Debug\netcoreapp3.1\Visums.Domain.pdb
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\bin\Debug\netcoreapp3.1\Visums.Domain.Core.dll
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\bin\Debug\netcoreapp3.1\Visums.Domain.Core.pdb
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.csprojAssemblyReference.cache
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.AssemblyInfoInputs.cache
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.AssemblyInfo.cs
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.csproj.CopyComplete
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.dll
+C:\Users\renan\Documents\Visual Studio 2019\Visums\Visums\Visums.Domain\obj\Debug\netcoreapp3.1\Visums.Domain.pdb

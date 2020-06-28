@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJ/AKj4zzuBcvIpz5ARwm2bQ0glvZO2wQJXh0RORo/r+JAbpQHpDdzvoWTqtb9v/pmlBK0vSgceWz0gFIho3jQ==",
+  "dgSpecHash": "YdNr+EFB45dWLrp2b0sP8DaCfquLktNMvweVzcRPXHzUAJCBOWpCNAu0F+tQhLKLRF9WLJWa0CzbYfDUrFO14g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renan\\Documents\\Visual Studio 2019\\Visums\\Visums\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\renan\\source\\repos\\CRUD\\Visums.Domain.Core\\Visums.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renan\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
